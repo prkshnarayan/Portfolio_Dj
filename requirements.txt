@@ -1,0 +1,4 @@
+Django~=2.2.14
+pillow
+gunicorn
+whitenoise
