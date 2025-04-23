@@ -1,5 +1,4 @@
-﻿# Portfolio_Dj
-# Django Portfolio Website
+# Portfolio Website
 
 This is a personal portfolio website built using **Django** to showcase my skills, projects, and contact details. The site is live and accessible here:
 
